@@ -1,0 +1,4 @@
+rootProject.name = 'bb-bkms'
+include 'core'
+include 'web'
+
